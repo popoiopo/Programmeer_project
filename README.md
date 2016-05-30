@@ -30,12 +30,22 @@ And with these sources of information we will answer the following questions:
 These questions will be answered by visualizing the data using the javascript D3 library to find certain trends. This visualisation will be very extensive as much information is given.
 
 ![main](doc/main.jpg)
+
+First we have a main visualisation of the floor plan with prox zones or HVAC zones. Each kind of zone can be selected in the top right corner, with floor selection underneath. Above the map you can select the kind of sensor you want to see data from, and data inside each zone will change accordingly, both in color and values inside the box. At the right of the kinds of sensor you can select a specific person you want to follow via a dropdown menu in which you can also write the name of the person you want to find, and it will autofinish the name for you to improve user friendliness. Inside the map a dot will then appear with a timestamp above it, and move the same way the person did that day. Underneath the map you can select the specific day you want to see all the data from. 
+
+With a click on the zone itself a second information bar appears looking like the following:
+
 ![on_click](doc/on_click.jpg)
 
+With a click on a zone, you can see the values of all variables plotted over the course of the selected day, with on the right side all the peoples names that entered the room, with the time next to it. On the right of the people index there is a panel in which another zone can be chosen for comparison, all the information will be shown in a manner that is similar as the initial chosen zone, but only smaller. Underneath the zone comparison one can choose another floor to compare certain aspects between different floors.
 
-- An overview sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out
-- how you will get the data into the right form for your app
-- What separate parts of the application can be defined (decomposing the problem) and how these should work together
-- What external components (APIs) you need to make certain features possible
-- Technical problems or limitations that could arise during development and what possibilities you have to overcome these
-- A review of similar applications or visualizations in terms of features and technical aspects (what do they offer? how have they implemented it?)
+These different kinds of data have been (as previously stated) kindly supplied and will be loaded in D3. The maps will however be redrawn inside D3 for the purpose of interactivity. It will however be difficult to implement this map and draw it in a manner that it can be used as an actual zone in which differences can take place.
+
+![floorplan_temp](doc/floorplan_temp.jpg)
+
+In this picture a similar project is shown in which they show the temperature differences between rooms in values aswell as in a color gradient. This gradient will roughly be how the visualistation above would look like when CO2, temperature, Hazium or the cooling status of a room will be visualised.
+
+![sims](doc/sims.jpg)
+
+In the above picture a house from the game sims is shown. In this game people can create an enviroment for their virtual people and follow them from a top view. This illustrates how a person can be followed inside our own visualisation when being tracked with their proximity cards.
+
