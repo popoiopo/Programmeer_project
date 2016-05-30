@@ -23,11 +23,11 @@ And with these sources of information we will answer the following questions:
 * Describe up to ten notable anomalies or unusual events you see in the data. Prioritize those issues that are likely to be the most likely to represent a danger or a serious issue for building operations.
 * Describe up to five observed relationships between the proximity card data and building data elements. If you find a causal relationship (for example, a building event or condition leading to personnel behavior changes or personnel activity leading to building operations changes), describe your discovered cause and effect, the evidence you found to support it, and your level of confidence in your assessment of the relationship.
 
--what problem will be solved for the user
--what features will be available to solve the problem
--An overview sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out
--what data sets and data sources will you need, how you will get the data into the right form for your app
--what separate parts of the application can be defined (decomposing the problem) and how these should work together
--what external components (APIs) you need to make certain features possible
--technical problems or limitations that could arise during development and what possibilities you have to overcome these
--A review of similar applications or visualizations in terms of features and technical aspects (what do they offer? how have they implemented it?)
+- What problem will be solved for the user
+- What features will be available to solve the problem
+- An overview sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out
+- What data sets and data sources will you need, how you will get the data into the right form for your app
+- What separate parts of the application can be defined (decomposing the problem) and how these should work together
+- What external components (APIs) you need to make certain features possible
+- Technical problems or limitations that could arise during development and what possibilities you have to overcome these
+- A review of similar applications or visualizations in terms of features and technical aspects (what do they offer? how have they implemented it?)
