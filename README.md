@@ -39,7 +39,7 @@ With a click on the zone itself a second information bar appears looking like th
 
 With a click on a zone, you can see the values of all variables plotted over the course of the selected day, with on the right side all the peoples names that entered the room, with the time next to it. On the right of the people index there is a panel in which another zone can be chosen for comparison, all the information will be shown in a manner that is similar as the initial chosen zone, but only smaller. Underneath the zone comparison one can choose another floor to compare certain aspects between different floors.
 
-These different kinds of data have been (as previously stated) kindly supplied and will be loaded in D3. The maps will however be redrawn inside D3 for the purpose of interactivity. It will however be difficult to implement this map and draw it in a manner that it can be used as an actual zone in which differences can take place.
+These different kinds of data have been (as previously stated) kindly supplied and will be loaded in D3. The maps will however be redrawn inside D3 for the purpose of interactivity. It will however be difficult to implement this map and draw it in a manner that it can be used as an actual zone in which differences can take place. Tracking the people in their movement habbits could proove to be very difficult, as they might move to different floors and the map should change accordingly.
 
 ![floorplan_temp](doc/floorplan_temp.jpg)
 
@@ -48,4 +48,8 @@ In this picture a similar project is shown in which they show the temperature di
 ![sims](doc/sims.jpg)
 
 In the above picture a house from the game sims is shown. In this game people can create an enviroment for their virtual people and follow them from a top view. This illustrates how a person can be followed inside our own visualisation when being tracked with their proximity cards.
+
+##Minimum viable product
+
+At minimum i want to draw the map and make it interactive with the different floors, kinds of zones and days. And on click a dropdown menu that appears. Tracking the people in their movement habbits could be done without, as they might move to different floors and the map should change accordingly. This might proove to be to difficult and take too much time to implement.
 
