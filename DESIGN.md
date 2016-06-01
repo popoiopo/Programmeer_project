@@ -1,4 +1,8 @@
-## Design
+## Design document
+
+![main](doc/design.svg)
+![main](doc/design_on_click.jpg)
+
 
 * a diagram of modules or classes that you’ve decided to implement, in appropriate detail
 advanced sketches of your UI that clearly explain which features are connected to which underlying part of the code
