@@ -1,7 +1,7 @@
 ## Design document
 
-![design](doc/design.jpg)
-![design_on_click](doc/design_on_click.jpg)
+![design](doc/Design.jpg)
+![design_on_click](doc/Design_on_click.jpg)
 
 
 * a diagram of modules or classes that you’ve decided to implement, in appropriate detail
