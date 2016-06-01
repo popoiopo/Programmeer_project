@@ -1,6 +1,6 @@
 ## Design document
 
-![main](doc/design.svg)
+![main](doc/design.jpg)
 ![main](doc/design_on_click.jpg)
 
 
