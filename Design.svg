@@ -218,7 +218,7 @@
 	<line fill="none" stroke="#00A19A" stroke-width="6" stroke-miterlimit="10" x1="-282.5" y1="-20.41" x2="513" y2="-20.41"/>
 </g>
 <g id="top_right_graph">
-	<rect x="117.48" y="-255.284" fill="none" width="395.52" height="235.099"/>
+	<rect id="top_right_svg" x="117.48" y="-255.284" fill="none" width="395.52" height="235.099"/>
 </g>
 <g id="prox_zones">
 	<g enable-background="new    ">
@@ -369,10 +369,10 @@
 	<rect id="top_left_svg" x="-281.09" y="-255.284" fill="none" width="395.521" height="235.099"/>
 </g>
 <g id="bottom_left_graph">
-	<rect x="-281.09" y="-20.185" fill="none" width="395.521" height="235.099"/>
+	<rect id="bottom_left_svg" x="-281.09" y="-20.185" fill="none" width="395.521" height="235.099"/>
 </g>
 <g id="bottom_right_graph">
-	<rect x="117.479" y="-20.185" fill="none" width="395.521" height="235.099"/>
+	<rect id="bottom_right_svg" x="117.479" y="-20.185" fill="none" width="395.521" height="235.099"/>
 </g>
 <g id="pointer">
 </g>
