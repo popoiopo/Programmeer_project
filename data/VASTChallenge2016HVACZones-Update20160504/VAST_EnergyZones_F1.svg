@@ -1,1 +1,46 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 615.33 359.33"><defs><style>.cls-1{fill:#fff;}.cls-1,.cls-2{stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2px;}.cls-2{fill:none;}</style></defs><title>VAST_EnergyZones_F1</title><rect class="cls-1" x="1" y="1" width="152" height="126.67"/><rect class="cls-1" x="196.33" y="1" width="241.33" height="116.67"/><rect class="cls-1" x="487" y="1" width="127.33" height="306"/><rect class="cls-1" x="487" y="307" width="127.33" height="51.33"/><polygon class="cls-2" points="50.33 307 153 307 153 358.33 1 358.33 1 127.67 50.33 127.67 50.33 307"/><rect class="cls-2" x="219" y="149.67" width="165.33" height="65.33"/><rect class="cls-2" x="243.67" y="215" width="140.67" height="77.33"/><polygon class="cls-2" points="437.67 117.67 437.67 1 487 1 487 215 384.33 215 384.33 149.67 219 149.67 219 215 50.33 215 50.33 127.67 153 127.67 153 1 196.33 1 196.33 117.67 437.67 117.67"/><polygon class="cls-2" points="243.67 215 243.67 292.33 384.33 292.33 384.33 215 487 215 487 358.33 153 358.33 153 307 50.33 307 50.33 215 243.67 215"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="850.39px" height="1275.59px" viewBox="0 0 850.39 1275.59" enable-background="new 0 0 850.39 1275.59"
+	 xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="F1_Z7">
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="166.667,764.333 269.333,764.333 
+		269.333,815.666 117.333,815.666 117.333,585 166.667,585 	"/>
+</g>
+<g id="F1_Z8B">
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="360,672.333 360,749.666 500.667,749.666 
+		500.667,672.333 603.333,672.333 603.333,815.666 269.333,815.666 269.333,764.333 166.667,764.333 166.667,672.333 	"/>
+</g>
+<g id="F1_Z8A">
+	<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="554,575 554,458.333 603.333,458.333 
+		603.333,672.333 500.667,672.333 500.667,607 335.333,607 335.333,672.333 166.667,672.333 166.667,585 269.333,585 
+		269.333,458.333 312.667,458.333 312.667,575 	"/>
+</g>
+<g id="F1_Z5">
+	
+		<rect x="360" y="672.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="140.667" height="77.333"/>
+</g>
+<g id="F1_Z6">
+	
+		<rect x="335.334" y="607" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="165.333" height="65.333"/>
+</g>
+<g id="F1_Z4">
+	
+		<rect x="603.333" y="764.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="127.333" height="51.333"/>
+</g>
+<g id="F1_Z3">
+	
+		<rect x="603.334" y="458.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="127.333" height="306"/>
+</g>
+<g id="F1_Z2">
+	
+		<rect x="312.667" y="458.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="241.333" height="116.667"/>
+</g>
+<g id="F1_Z1">
+	
+		<rect x="117.333" y="458.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="152" height="126.667"/>
+</g>
+</svg>
