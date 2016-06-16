@@ -53,3 +53,5 @@ In the above picture a house from the game sims is shown. In this game people ca
 
 At minimum i want to draw the map and make it interactive with the different floors, kinds of zones and days. And on click a dropdown menu that appears. Tracking the people in their movement habbits could be done without, as they might move to different floors and the map should change accordingly. This might proove to be to difficult and take too much time to implement.
 
+## Link to Gosia Warriors Project
+https://github.com/popoiopo/Gosia-warriors
