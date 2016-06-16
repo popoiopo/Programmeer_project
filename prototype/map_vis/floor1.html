@@ -2,10 +2,10 @@
 <html>
     <head>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
-        <link rel="stylesheet" type="text/css" href="floor1.css">
-        <script src="d3.min.js"></script>
-        <script src="d3-queue.min.js"></script>
-        <script src="jquery-2.2.2.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/floor1.css">
+        <script src="libraries/d3.min.js"></script>
+        <script src="libraries/d3-queue.min.js"></script>
+        <script src="libraries/jquery-2.2.2.min.js"></script>
         <title>VAC MC2 - Floor 1</title>
     </head>
     <body>
@@ -13,7 +13,6 @@
             <center>
                 <h1>Mini Challenge 2</h1>
                 <div id="navigation-buttons">
-                    <button id="button-general" class="button" type="button" value="index.html">General</button>
                     <button id="button-f1" class="button" type="button" value="floor1.html">Floor 1</button>
                     <button id="button-f2" class="button" type="button" value="floor2.html">Floor 2</button>
                     <button id="button-f3" class="button" type="button" value="floor3.html">Floor 3</button>
@@ -21,6 +20,7 @@
             </center>
         </header>
         <main>
+            <div class="floor_div" hidden>1</div>        
             <center>
                 <div id="f1-div" class="vis">
                     <h2>Floor 1 readings</h2>
@@ -53,8 +53,13 @@
                     <br>
                     <h3 id="f1-vis-info"></h3>
                 </div>
+                <div id="slider-div">
+                    <h3 id="slider-value"></h3>
+                </div>
             </center>
         </main>
-        <script src="map_vis.js" defer></script>
+        <script src="js/get_info.js" defer></script>        
+        <script src="js/floor1.js" defer></script>
+        <script src="js/person_placement.js" defer></script> 
     </body>
 </html>
